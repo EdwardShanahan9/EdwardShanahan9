@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @EdwardShanahan9
-- 👀 In Full Stack Development
-- 🌱 I'm learning React 
-- 💞️ I’m looking to collaborate on anything web development
+👋 Hey, I’m Edward Shanahan!
 
-<!---
-EdwardShanahan9/EdwardShanahan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-Stack Developer | 🌐 Web Enthusiast | ⚛️ React Learner
+
+About Me
+
+👨‍💻 Passionate about building dynamic and scalable web applications
+📚 Currently diving deep into React and modern frontend development
+🤝 Always open to collaborating on exciting web projects
+🔍 Exploring best practices in Full-Stack Development
+
+💡 Tech Stack
+
+🔹 Frontend: HTML, CSS, JavaScript, React, Next.js
+🔹 Backend: Node.js, Express, MongoDB, PostgreSQL
+🔹 Tools & Other: Git, Docker, Firebase, CI/CD
+
+🚀 Let’s Build Something Awesome!
+
+I’m always excited to connect with fellow developers, exchange ideas, and work on meaningful projects together. Feel free to reach out!
