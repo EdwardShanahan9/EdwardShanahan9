@@ -11,9 +11,9 @@ About Me
 
 💡 Tech Stack
 
-🔹 Frontend: HTML, CSS, JavaScript, React, Next.js
+🔹 Frontend: HTML, CSS, JavaScript, React
 🔹 Backend: Node.js, Express, MongoDB, PostgreSQL
-🔹 Tools & Other: Git, Docker, Firebase, CI/CD
+🔹 Tools & Other: Git,Firebase
 
 🚀 Let’s Build Something Awesome!
 
