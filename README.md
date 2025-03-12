@@ -2,19 +2,33 @@
 
 🚀 Full-Stack Developer | 🌐 Web Enthusiast | ⚛️ React Learner
 
-About Me
+🚀 About Me
 
-👨‍💻 Passionate about building dynamic and scalable web applications
-📚 Currently diving deep into React and modern frontend development
-🤝 Always open to collaborating on exciting web projects
-🔍 Exploring best practices in Full-Stack Development
+👨‍💻 Passionate about building dynamic, scalable, and user-friendly web applications.
+📚 Currently diving deep into React, Next.js, and modern frontend development.
+💡 Enthusiastic about best practices, performance optimization, and clean code.
+🤝 Always open to collaborating on exciting web projects and learning from the dev community.
+🎯 Exploring design patterns, backend scalability, and DevOps workflows.
 
-💡 Tech Stack
+🛠 Tech Stack
 
-🔹 Frontend: HTML, CSS, JavaScript, React
-🔹 Backend: Node.js, Express, MongoDB, PostgreSQL
-🔹 Tools & Other: Git,Firebase
+🔹 Frontend
+	•	HTML, CSS, JavaScript (ES6+), TypeScript
+	•	React.js, Next.js, Redux, Tailwind CSS
+	•	Material UI, Bootstrap
 
-🚀 Let’s Build Something Awesome!
+🔹 Backend
+	•	Node.js, Express
+	•	MongoDB, PostgreSQL, Firebase
+	•	REST APIs, GraphQL
 
-I’m always excited to connect with fellow developers, exchange ideas, and work on meaningful projects together. Feel free to reach out!
+🔹 Tools & Other
+	•	Git, GitHub, Docker, CI/CD
+	•	Vercel, Netlify, Heroku
+	•	Jest, Cypress (Testing)
+
+🚀 What I’m Working On
+	•	Improving my React & TypeScript skills
+	•	Building full-stack web apps with Next.js
+	•	Exploring cloud solutions & DevOps practices
+	•	Contributing to open-source projects
