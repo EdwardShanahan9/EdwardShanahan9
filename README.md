@@ -14,8 +14,7 @@
 
 🔹 Frontend
 	•	HTML, CSS, JavaScript (ES6+), TypeScript
-	•	React.js, Next.js, Redux, Tailwind CSS
-	•	Material UI, Bootstrap
+	•	React.js, Next.js, Redux, Tailwind CS
 
 🔹 Backend
 	•	Node.js, Express
