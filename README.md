@@ -8,7 +8,6 @@
 📚 Currently diving deep into React, Next.js, and modern frontend development.
 💡 Enthusiastic about best practices, performance optimization, and clean code.
 🤝 Always open to collaborating on exciting web projects and learning from the dev community.
-🎯 Exploring design patterns, backend scalability, and DevOps workflows.
 
 🛠 Tech Stack
 
