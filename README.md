@@ -21,7 +21,7 @@
 	•	REST APIs, GraphQL
 
 🔹 Tools & Other
-	•	Git, GitHub, Docker, CI/CD
+	•	Git, GitHub,
 	•	Vercel, Netlify, Heroku
 	•	Jest, Cypress (Testing)
 
