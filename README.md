@@ -23,7 +23,7 @@
 🔹 Tools & Other
 	•	Git, GitHub,
 	•	Vercel, Netlify, Heroku
-	•	Jest, Cypress
+	
 
 🚀 What I’m Working On
 	•	Improving my React & TypeScript skills
