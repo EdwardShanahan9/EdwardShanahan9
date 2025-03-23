@@ -17,7 +17,7 @@
 
 🔹 Backend
 	•	Node.js, Express
-	•	MongoDB, PostgreSQL, Firebase
+	•	MongoDB, PostgreSQL, Firebase, Appwrite
 	•	REST APIs, GraphQL
 
 🔹 Tools & Other
